@@ -1,0 +1,1 @@
+import{t as e}from"./tool.bdhMzcpO.js";import{h as t}from"./ops.C89BlVH_.js";e({accept:`application/pdf,.pdf`,multiple:!1,runLabel:()=>`Extract text`,run:async e=>[await t(e[0])],summarise:e=>`${new TextDecoder().decode(e[0].bytes).split(/\s+/).filter(Boolean).length.toLocaleString()} words extracted`});

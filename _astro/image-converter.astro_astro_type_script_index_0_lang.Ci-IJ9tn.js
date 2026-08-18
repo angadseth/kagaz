@@ -1,0 +1,1 @@
+import{t as e}from"./image-convert.DWtfKcu7.js";e({accept:`image/*,.jpg,.jpeg,.png,.webp,.gif,.bmp,.avif,.svg`,format:null});

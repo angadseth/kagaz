@@ -1,0 +1,1 @@
+import{c as e}from"./core.9SgRBs2B.js";import{t}from"./tool.bdhMzcpO.js";import{c as n}from"./ops.C89BlVH_.js";var r=0;t({accept:`application/pdf,.pdf`,multiple:!1,runLabel:()=>`Convert to grayscale`,run:async(e,t,i)=>[await n(e[0],(e,t)=>{r=t,i.progress(`Converting page ${e} of ${t}…`)})],summarise:()=>`${e(r,`page`)} converted to grayscale`});

@@ -1,0 +1,1 @@
+import{t as e}from"./images-to-pdf.TIdHQByU.js";e({accept:`image/svg+xml,.svg`,name:`SVG`});

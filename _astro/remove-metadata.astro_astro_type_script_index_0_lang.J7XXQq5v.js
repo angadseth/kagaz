@@ -1,0 +1,1 @@
+import{t as e}from"./tool.bdhMzcpO.js";import{y as t}from"./ops.C89BlVH_.js";e({accept:`application/pdf,.pdf`,multiple:!1,runLabel:()=>`Strip metadata`,run:async e=>[await t(e[0])],summarise:()=>`Document information cleared`});

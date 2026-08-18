@@ -1,0 +1,1 @@
+var e=`/kagaz/_astro/pdf.worker.min.CHFwMXne.mjs`;export{e as default};

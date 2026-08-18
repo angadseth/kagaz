@@ -1,0 +1,1 @@
+import{t as e}from"./tool.bdhMzcpO.js";import{n as t}from"./clean.DSQL7YCI.js";e({accept:`application/pdf,.pdf`,multiple:!1,runLabel:()=>`Flatten form`,run:async e=>[await t(e[0])],summarise:()=>`Form fields flattened into the page`});

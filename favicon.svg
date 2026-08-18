@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Geometry rather than the Devanagari mark: a favicon is rendered without
+       our webfonts, and Devanagari coverage in system fonts is not dependable
+       enough to bet the icon on. -->
+  <rect width="32" height="32" rx="4" fill="#16191f" />
+  <rect x="8" y="6" width="16" height="20" rx="1.5" fill="#fbf9f4" />
+  <rect x="8" y="6" width="16" height="3" fill="#b3282d" />
+  <g fill="#2f4c8a">
+    <rect x="11" y="13" width="10" height="1.8" rx="0.9" />
+    <rect x="11" y="17" width="10" height="1.8" rx="0.9" />
+    <rect x="11" y="21" width="6" height="1.8" rx="0.9" />
+  </g>
+</svg>

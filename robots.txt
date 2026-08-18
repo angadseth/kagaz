@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Diagnostics, not a destination.
+Disallow: /kagaz/selftest
+
+Sitemap: https://angadseth.github.io/kagaz/sitemap-index.xml

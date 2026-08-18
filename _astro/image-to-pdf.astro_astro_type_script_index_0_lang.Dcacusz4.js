@@ -1,0 +1,1 @@
+import{t as e}from"./images-to-pdf.TIdHQByU.js";e({accept:`image/*,.jpg,.jpeg,.png,.webp,.gif,.bmp,.avif,.svg`,name:`image`});

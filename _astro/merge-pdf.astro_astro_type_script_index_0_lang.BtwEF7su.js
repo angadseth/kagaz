@@ -1,0 +1,1 @@
+import{c as e}from"./core.9SgRBs2B.js";import{t}from"./tool.bdhMzcpO.js";import{u as n}from"./ops.C89BlVH_.js";t({accept:`application/pdf,.pdf`,multiple:!0,minFiles:2,runLabel:e=>e<2?`Merge files`:`Merge ${e} files`,run:async e=>[await n(e)],summarise:(t,n)=>`${e(n.length,`file`)} joined into one PDF`});
